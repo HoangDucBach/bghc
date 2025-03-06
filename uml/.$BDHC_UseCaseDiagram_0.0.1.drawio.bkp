@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="_poZbObsLEnLOh7pFezw">
-    <mxGraphModel dx="1158" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="937" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-280" width="30" height="60" as="geometry" />
+          <mxGeometry x="520" y="-180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-3" value="Ngân hàng&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="-250" width="30" height="60" as="geometry" />
+          <mxGeometry x="1560" y="-215" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-6" value="1. Xác thực" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-80" width="85" height="40" as="geometry" />
+          <mxGeometry x="865" y="20" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-7" value="2. Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="80" height="40" as="geometry" />
@@ -23,19 +23,19 @@
           <mxGeometry x="680" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-13" value="5.Quét QR" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="-380" width="80" height="40" as="geometry" />
+          <mxGeometry x="810" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-14" value="6.Nạp tiền điện thoại" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1002.5" y="30" width="140" height="40" as="geometry" />
+          <mxGeometry x="1002.5" y="20" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-15" value="7. Mở tài khoản tiết kiệm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-170" width="150" height="50" as="geometry" />
+          <mxGeometry x="750" y="-210" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-16" value="8. Tạo rút tiền ATM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="-340" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-19" value="9. Đăng kí vay online" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="-260" width="140" height="40" as="geometry" />
+          <mxGeometry x="845" y="-120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-20" value="10. Quản lý thẻ tín dụng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-450" width="140" height="50" as="geometry" />
@@ -107,25 +107,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YAgFSowwPV8T4sW8ivk9-36" value="7. Chuyển tiền" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1015" y="-415" width="110" height="40" as="geometry" />
+          <mxGeometry x="1017.5" y="-400" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YAgFSowwPV8T4sW8ivk9-46" value="9. Xác nhận giao dịch" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="995" y="-180" width="155" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YAgFSowwPV8T4sW8ivk9-47" value="11. Xác thực danh tính" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="-260" width="155" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YAgFSowwPV8T4sW8ivk9-52" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="YAgFSowwPV8T4sW8ivk9-46" target="YAgFSowwPV8T4sW8ivk9-47" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="830" y="500" as="sourcePoint" />
-            <mxPoint x="990" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YAgFSowwPV8T4sW8ivk9-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_Nw6DjDftG40vSoAcGvt-3" target="YAgFSowwPV8T4sW8ivk9-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1560" y="-190" as="sourcePoint" />
-            <mxPoint x="1369" y="-108" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="YAgFSowwPV8T4sW8ivk9-46" value="12. Xác nhận giao dịch" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="995" y="-220" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YAgFSowwPV8T4sW8ivk9-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_Nw6DjDftG40vSoAcGvt-3" target="YAgFSowwPV8T4sW8ivk9-46" edge="1">
           <mxGeometry relative="1" as="geometry">
