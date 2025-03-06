@@ -1,0 +1,112 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="aWHvYDmvU6KEJwanwGd7">
+    <mxGraphModel dx="984" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KJYIOcynAz07dcxsfuO2-17" value="Tạo lệnh chuyển tiền quốc tế" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fixedWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="930.5" height="720" as="geometry">
+            <mxRectangle x="40" y="20" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-72" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="KJYIOcynAz07dcxsfuO2-17" source="KJYIOcynAz07dcxsfuO2-46" target="Yu1xLJiBmAxWLEI_7CF--1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-18" value="Khách hàng" style="swimlane;html=1;startSize=20;" parent="KJYIOcynAz07dcxsfuO2-17" vertex="1">
+          <mxGeometry y="20" width="350.5" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-45" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="KJYIOcynAz07dcxsfuO2-18" vertex="1">
+          <mxGeometry x="20" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-46" value="Chọn Tạo lệnh chuyển tiền quốc tế" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="KJYIOcynAz07dcxsfuO2-18" vertex="1">
+          <mxGeometry x="103.5" y="32.5" width="146.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="KJYIOcynAz07dcxsfuO2-18" source="KJYIOcynAz07dcxsfuO2-45" target="KJYIOcynAz07dcxsfuO2-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--53" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Khách hàng chọn mục đích&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-18">
+          <mxGeometry x="110.32" y="140" width="129.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Khách hàng chọn loại ngoại tệ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-18">
+          <mxGeometry x="111.82" y="260" width="129.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Khách hàng nhập số tiền&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-18">
+          <mxGeometry x="91.60000000000002" y="380" width="170.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KJYIOcynAz07dcxsfuO2-18" source="Yu1xLJiBmAxWLEI_7CF--66" target="Yu1xLJiBmAxWLEI_7CF--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--66" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Khách hàng nhập biểu mẫu&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-18">
+          <mxGeometry x="87.55" y="500" width="178.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Khách hàng nhấn &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;i&gt;Xác nhận&lt;/i&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-18">
+          <mxGeometry x="87.55000000000003" y="580" width="178.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-27" value="Hệ thống" style="swimlane;html=1;startSize=20;" parent="KJYIOcynAz07dcxsfuO2-17" vertex="1">
+          <mxGeometry x="350.5" y="20" width="330" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--1" value="Hệ thống hiển thị bảng lựa chọn các mục đích chuyển tiền" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-27">
+          <mxGeometry x="69.5" y="30" width="210.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--57" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Hệ thống hiển thị danh sách các loại ngoại tệ&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-27">
+          <mxGeometry x="89.47" y="140" width="170.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Hệ thống hiển thị câu hỏi số tiền cần chuyển&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-27">
+          <mxGeometry x="89.47000000000003" y="260" width="170.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Hệ thống hiển thị biểu mẫu thông tin người nhận&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-27">
+          <mxGeometry x="79.74" y="380" width="189.78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--72" value="Hệ thống gửi thông tin đến ngân hàng xử lý" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-27">
+          <mxGeometry x="81.38" y="580" width="178.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-165" value="Ngân hàng" style="swimlane;html=1;startSize=20;" parent="KJYIOcynAz07dcxsfuO2-17" vertex="1">
+          <mxGeometry x="680.5" y="20" width="250" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="KJYIOcynAz07dcxsfuO2-187" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="KJYIOcynAz07dcxsfuO2-165" vertex="1">
+          <mxGeometry x="119.5" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KJYIOcynAz07dcxsfuO2-165" source="Yu1xLJiBmAxWLEI_7CF--74" target="KJYIOcynAz07dcxsfuO2-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--74" value="Ngân hàng tiếp nhận thông tin và xử lý" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="KJYIOcynAz07dcxsfuO2-165">
+          <mxGeometry x="45.299999999999955" y="580" width="178.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--1" target="Yu1xLJiBmAxWLEI_7CF--53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="120" />
+              <mxPoint x="175" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--53" target="Yu1xLJiBmAxWLEI_7CF--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--57" target="Yu1xLJiBmAxWLEI_7CF--59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--62" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--59" target="Yu1xLJiBmAxWLEI_7CF--61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--61" target="Yu1xLJiBmAxWLEI_7CF--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--67" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--63" target="Yu1xLJiBmAxWLEI_7CF--65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--68" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--65" target="Yu1xLJiBmAxWLEI_7CF--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--73" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--69" target="Yu1xLJiBmAxWLEI_7CF--72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yu1xLJiBmAxWLEI_7CF--75" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="KJYIOcynAz07dcxsfuO2-17" source="Yu1xLJiBmAxWLEI_7CF--72" target="Yu1xLJiBmAxWLEI_7CF--74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
