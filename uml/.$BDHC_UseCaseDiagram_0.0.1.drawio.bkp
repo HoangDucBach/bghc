@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="_poZbObsLEnLOh7pFezw">
-    <mxGraphModel dx="1312" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,16 +23,16 @@
           <mxGeometry x="660" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-13" value="5.Quét QR" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-430" width="80" height="40" as="geometry" />
+          <mxGeometry x="715" y="-410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-14" value="6.Nạp tiền điện thoại" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="30" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-15" value="10. Mở tài khoản tiết kiệm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="-250" width="150" height="50" as="geometry" />
+          <mxGeometry x="740" y="-220" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-16" value="8. Tạo mã rút tiền ATM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-370" width="115" height="70" as="geometry" />
+          <mxGeometry x="910" y="-470" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_Nw6DjDftG40vSoAcGvt-19" value="9. Đăng kí vay online" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-120" width="140" height="40" as="geometry" />
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YAgFSowwPV8T4sW8ivk9-36" value="7. Chuyển tiền" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-450" width="110" height="40" as="geometry" />
+          <mxGeometry x="870" y="-340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YAgFSowwPV8T4sW8ivk9-46" value="11. Xác nhận giao dịch" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="995" y="-180" width="155" height="70" as="geometry" />
@@ -151,10 +151,16 @@
             <mxPoint x="1399" y="-56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3GgNi5XpMgIyHVZlklJ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_Nw6DjDftG40vSoAcGvt-3" target="_Nw6DjDftG40vSoAcGvt-28">
+        <mxCell id="r3GgNi5XpMgIyHVZlklJ-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_Nw6DjDftG40vSoAcGvt-3" target="_Nw6DjDftG40vSoAcGvt-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1570" y="-135" as="sourcePoint" />
             <mxPoint x="997" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZIUkSHRQ-WygOt-_xAk-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="YAgFSowwPV8T4sW8ivk9-36" target="YAgFSowwPV8T4sW8ivk9-46">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="936" y="-294" as="sourcePoint" />
+            <mxPoint x="1053" y="-167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
