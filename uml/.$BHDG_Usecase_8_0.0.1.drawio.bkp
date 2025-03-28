@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t0HmPK8QkURCzjz0FIet" name="design elements">
-    <mxGraphModel dx="1036" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -660,7 +660,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WUgSR5JvfddbQonyCnqt-56" value="Withdraw Interfaces" style="shape=folder;fontStyle=1;tabWidth=155;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;recursiveResize=0;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-44">
-          <mxGeometry x="32.637362637362635" y="60" width="303.88648351648345" height="234.41" as="geometry" />
+          <mxGeometry x="32.64" y="60" width="303.89" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WUgSR5JvfddbQonyCnqt-57" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-56">
           <mxGeometry width="214.49999999999997" height="133.83050847457628" relative="1" as="geometry">
@@ -672,15 +672,6 @@
         </mxCell>
         <mxCell id="WUgSR5JvfddbQonyCnqt-59" value="&lt;i&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IWithdrawController&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-56">
           <mxGeometry x="10.999999999999998" y="103.5593220338983" width="230.99999999999997" height="39.83050847457627" as="geometry" />
-        </mxCell>
-        <mxCell id="WUgSR5JvfddbQonyCnqt-60" value="&lt;i&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IBankTransaction&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-56">
-          <mxGeometry x="10.999999999999998" y="167.28813559322035" width="230.99999999999997" height="39.83050847457627" as="geometry" />
-        </mxCell>
-        <mxCell id="WUgSR5JvfddbQonyCnqt-61" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WUgSR5JvfddbQonyCnqt-44" source="WUgSR5JvfddbQonyCnqt-46" target="WUgSR5JvfddbQonyCnqt-60">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="604.9999999999999" y="254.91525423728814" as="sourcePoint" />
-            <mxPoint x="341" y="297.9322033898305" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WUgSR5JvfddbQonyCnqt-62" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="WUgSR5JvfddbQonyCnqt-44" source="WUgSR5JvfddbQonyCnqt-46" target="WUgSR5JvfddbQonyCnqt-59">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -835,7 +826,7 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUgSR5JvfddbQonyCnqt-87" value="InternationalTransfer Interfaces" style="shape=folder;fontStyle=1;tabWidth=140;tabHeight=32;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-83">
+        <mxCell id="WUgSR5JvfddbQonyCnqt-87" value="Withdraw Interfaces" style="shape=folder;fontStyle=1;tabWidth=140;tabHeight=32;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-83">
           <mxGeometry x="160" y="60" width="187.31" height="111.87" as="geometry" />
         </mxCell>
         <mxCell id="WUgSR5JvfddbQonyCnqt-88" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="WUgSR5JvfddbQonyCnqt-87">
