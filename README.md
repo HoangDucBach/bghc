@@ -1,2 +1,1 @@
-# talala
-This repo for Smartbanking app to submit OOAD subject | Talala team
+https://docs.google.com/document/d/1YaqCwCzBxT4u1LZDo8fZy_EOw5gi3FdohqGa_05MGUQ/edit?usp=sharing
